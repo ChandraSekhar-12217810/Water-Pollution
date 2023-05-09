@@ -1,2 +1,2 @@
 # Water-Pollution
-CLICK HERE(https://chandrasekhar-12217810.github.io/Water-Pollution/water_pollution.html)
+# To see the output [CLICK HERE](https://chandrasekhar-12217810.github.io/Water-Pollution/water_pollution.html)
